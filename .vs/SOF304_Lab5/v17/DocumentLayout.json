@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SOF304_Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CA1003-BC51-412E-BF4A-329E0CECB2BC}|SOF304_Lab5\\SOF304_Lab5.csproj|c:\\sof304_lab5\\sof304_lab5\\googlesearchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CA1003-BC51-412E-BF4A-329E0CECB2BC}|SOF304_Lab5\\SOF304_Lab5.csproj|solutionrelative:sof304_lab5\\googlesearchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05B5B6-D189-4D8E-AC80-7FB38E5ED86A}|SOF304_Lab5.2\\SOF304_Lab5.2.csproj|c:\\sof304_lab5\\sof304_lab5.2\\firefoxsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E05B5B6-D189-4D8E-AC80-7FB38E5ED86A}|SOF304_Lab5.2\\SOF304_Lab5.2.csproj|solutionrelative:sof304_lab5.2\\firefoxsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05B5B6-D189-4D8E-AC80-7FB38E5ED86A}|SOF304_Lab5.2\\SOF304_Lab5.2.csproj|c:\\sof304_lab5\\sof304_lab5.2\\sof304_lab5.2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E05B5B6-D189-4D8E-AC80-7FB38E5ED86A}|SOF304_Lab5.2\\SOF304_Lab5.2.csproj|solutionrelative:sof304_lab5.2\\sof304_lab5.2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05B5B6-D189-4D8E-AC80-7FB38E5ED86A}|SOF304_Lab5.2\\SOF304_Lab5.2.csproj|c:\\sof304_lab5\\sof304_lab5.2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E05B5B6-D189-4D8E-AC80-7FB38E5ED86A}|SOF304_Lab5.2\\SOF304_Lab5.2.csproj|solutionrelative:sof304_lab5.2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CA1003-BC51-412E-BF4A-329E0CECB2BC}|SOF304_Lab5\\SOF304_Lab5.csproj|c:\\sof304_lab5\\sof304_lab5\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CA1003-BC51-412E-BF4A-329E0CECB2BC}|SOF304_Lab5\\SOF304_Lab5.csproj|solutionrelative:sof304_lab5\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirefoxSearch.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab5\\SOF304_Lab5.2\\FirefoxSearch.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab5.2\\FirefoxSearch.cs",
+              "ToolTip": "C:\\SOF304_Lab5\\SOF304_Lab5.2\\FirefoxSearch.cs",
+              "RelativeToolTip": "SOF304_Lab5.2\\FirefoxSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:12:26.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SOF304_Lab5.2.csproj",
+              "DocumentMoniker": "C:\\SOF304_Lab5\\SOF304_Lab5.2\\SOF304_Lab5.2.csproj",
+              "RelativeDocumentMoniker": "SOF304_Lab5.2\\SOF304_Lab5.2.csproj",
+              "ToolTip": "C:\\SOF304_Lab5\\SOF304_Lab5.2\\SOF304_Lab5.2.csproj",
+              "RelativeToolTip": "SOF304_Lab5.2\\SOF304_Lab5.2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T01:10:56.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab5\\SOF304_Lab5.2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab5.2\\UnitTest1.cs",
+              "ToolTip": "C:\\SOF304_Lab5\\SOF304_Lab5.2\\UnitTest1.cs",
+              "RelativeToolTip": "SOF304_Lab5.2\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:10:17.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleSearchTest.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab5\\SOF304_Lab5\\GoogleSearchTest.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab5\\GoogleSearchTest.cs",
+              "ToolTip": "C:\\SOF304_Lab5\\SOF304_Lab5\\GoogleSearchTest.cs",
+              "RelativeToolTip": "SOF304_Lab5\\GoogleSearchTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:47:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\SOF304_Lab5\\SOF304_Lab5\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SOF304_Lab5\\UnitTest1.cs",
+              "ToolTip": "C:\\SOF304_Lab5\\SOF304_Lab5\\UnitTest1.cs",
+              "RelativeToolTip": "SOF304_Lab5\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:36:52.604Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
